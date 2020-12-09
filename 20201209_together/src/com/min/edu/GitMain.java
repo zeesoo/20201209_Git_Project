@@ -4,7 +4,8 @@ public class GitMain {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("안녕하세요 이제 이곳만 보시면 됩니다. 이제부터 main에서만 작업을 수행하겟습니다. 자유롭게 치셔도 됩니다.");
+		System.out.println("�븞�뀞�븯�꽭�슂 �씠�젣 �씠怨노쭔 蹂댁떆硫� �맗�땲�떎. �씠�젣遺��꽣 main�뿉�꽌留� �옉�뾽�쓣 �닔�뻾�븯寃잛뒿�땲�떎. �옄�쑀濡�寃� 移섏뀛�룄 �맗�땲�떎.");
+		System.out.println("hihi");
 	}
 
 }
