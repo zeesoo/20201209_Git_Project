@@ -9,6 +9,7 @@ public class GitMain {
 		System.out.println("yoyoyo");
 		System.out.println("야야야");
 		System.out.println("Merry Christmas~");
+		System.out.println("Test 555555");
 	}
 
 }
