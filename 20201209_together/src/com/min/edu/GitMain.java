@@ -8,12 +8,10 @@ public class GitMain {
 		System.out.println("hihi");
 		System.out.println("yoyoyo");
 		System.out.println("야야야");
-<<<<<<< HEAD
 		System.out.println("Merry Christmas~");
-=======
 		System.out.println("테스트 입니다");
->>>>>>> refs/remotes/origin/main
 		System.out.println("Test 555555");
+		System.out.println("최종");
 	}
 
 }
